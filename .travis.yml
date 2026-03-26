@@ -3,6 +3,6 @@ language: minimal
 notifications:
   slack:
     rooms:
-      - 製品基盤情報デザインG:your-slack-token#travis
+      - 製品基盤情報デザインG:yj2ZdoWN6xQtkB3uWDfrlImz#travis
     on_success: always
     on_failure: always
