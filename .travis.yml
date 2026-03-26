@@ -1,0 +1,8 @@
+language: minimal
+
+notifications:
+  slack:
+    rooms:
+      - your-workspace:your-slack-token#travis-ci
+    on_success: always
+    on_failure: always
